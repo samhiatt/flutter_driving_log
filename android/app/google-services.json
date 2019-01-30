@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "927539067884",
+    "firebase_url": "https://marip-d8dcf.firebaseio.com",
+    "project_id": "marip-d8dcf",
+    "storage_bucket": "marip-d8dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927539067884:android:054853ca87ad8ba7",
+        "android_client_info": {
+          "package_name": "com.example.marip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927539067884-k7l4bah2faldqhm9bcv81a22qnh4as3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo56QPp9LVtOECzK0JxHJZu4Lref6U_Q8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
